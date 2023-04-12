@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">280414073477-41gb29h89qne3vj3jhmh25sn7derrh7b.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">280414073477</string>
+    <string name="google_api_key" translatable="false">AIzaSyBvrFUr69_eN_CPNwY9yYCKC6FyGNFywjA</string>
+    <string name="google_app_id" translatable="false">1:280414073477:android:67618a7ba77cb3c6626fec</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBvrFUr69_eN_CPNwY9yYCKC6FyGNFywjA</string>
+    <string name="google_storage_bucket" translatable="false">tiktokclone-9fb04.appspot.com</string>
+    <string name="project_id" translatable="false">tiktokclone-9fb04</string>
+</resources>
